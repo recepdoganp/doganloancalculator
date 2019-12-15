@@ -6,3 +6,5 @@ In the results: following information is provided to the user:
 Monthly payment
 Total payment
 Total Interest amount
+
+Live page can be reached at http://doganloancalculator.surge.sh/
